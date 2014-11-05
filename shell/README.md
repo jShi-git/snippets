@@ -1,0 +1,6 @@
+snippets
+========
+
+shell snippets
+
+## Console

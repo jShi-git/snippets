@@ -1,0 +1,6 @@
+snippets
+========
+
+python snippets
+
+## Console

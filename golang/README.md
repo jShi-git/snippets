@@ -1,0 +1,6 @@
+snippets
+========
+
+golang snippets
+
+## Console
